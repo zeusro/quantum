@@ -93,10 +93,36 @@ $$
 
 tab=t(| ⟩ )² 表示在n维空间中的2个量子，基于时间在做运动。
 
+### tab=t
+
+$$
+tab=t(| ⟩ )² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow  ab=1
+$$
+
+tab=t 表示在n维空间中的1个量子，基于时间在做运动。
+
+ab=1 表示量子的相互纠缠性。
+
+### | ⟩ ²=1
+
+$$
+tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩ ²=1
+$$
+
 ![image](tab.png)
 
 因此我们就得到了运动的量子化解释。
 
-### t(| ⟩ )²=tp²
+(1|2)个彩蛋。
+
+## tab=t(| ⟩ )²=0
+
+$$
+tab=t(| ⟩ )² ∧ a=0 \Rightarrow  tab=t(| ⟩ )²=0
+$$
+
+tab=t(| ⟩ )²=0 表示量子坍塌？其实我也不太清楚。
+
+## t(| ⟩ )²=tp²
 
 ![image](tpp.gif)
