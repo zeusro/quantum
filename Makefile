@@ -10,3 +10,6 @@ auto_commit:
 	git commit -am "$(BUILD_TIME)"
 	git pull
 	git push
+
+chinese:
+	cp README.md README.zh.md
