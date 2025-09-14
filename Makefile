@@ -13,4 +13,4 @@ auto_commit:  chinese
 
 chinese:
 	cp README.md README.zh.md
-	sed -i.bak -e '/未濟，亨/d' -e '/^$$/d' README.zh.md && rm -f README.zh.md.bak
+	sed -i.bak -e '/未濟，亨/{N;d;}' README.zh.md && rm -f README.zh.md.bak
