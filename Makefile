@@ -5,7 +5,7 @@ IMAGE_FULL           ?= $(DOCKER_REPO)/$(DOCKER_TAG)
 DOCKER_REGISTRY ?= registry.cn-shenzhen.aliyuncs.com/
 ARCH                     ?= amd64
 
-auto_commit: chinese
+auto_commit:  chinese
 	git add .
 	git commit -am "$(BUILD_TIME)"
 	git pull
@@ -13,3 +13,4 @@ auto_commit: chinese
 
 chinese:
 	cp README.md README.zh.md
+	sed -i '' '/未濟，亨/d' README.zh.md
