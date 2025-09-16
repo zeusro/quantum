@@ -5,7 +5,7 @@ IMAGE_FULL           ?= $(DOCKER_REPO)/$(DOCKER_TAG)
 DOCKER_REGISTRY ?= registry.cn-shenzhen.aliyuncs.com/
 ARCH                     ?= amd64
 
-auto_commit:  chinese
+auto_commit: 
 	git add .
 	git commit -am "$(BUILD_TIME)"
 	git pull
