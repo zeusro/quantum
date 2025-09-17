@@ -1,6 +1,6 @@
-# 双人运动的单人解释
+# Quantum Mr. & Mrs. Smith (2005 film)
 
-![image](n.jpg)
+![image](Smith.webp)
 
 ## 推导公式
 
