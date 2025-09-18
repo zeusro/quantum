@@ -2,7 +2,7 @@
 
 ![image](Smith.webp)
 
-## 推导公式
+## Derivation process
 
 ```
 n'=0
@@ -39,11 +39,11 @@ We love each other.
 
 ### ab=a || a ²=a
 
-God knows if we're having sex
+God knows if we're having sex.
 
 ### b=1 || a=1 || a=0
 
-Rich before marriage, poor after marriage
+Rich before marriage, poor after marriage.
 
 #### a=b=1
 
@@ -67,7 +67,8 @@ $$
 a=1 || a=0  \Rightarrow a=| ⟩
 $$
 
-The LGBT community said that humans have 366 genders, and each day is different.
+Humans have 366 genders, and each day is different.
+
 The US government should build 366 gender-specific toilets to make it easier for them to go in and study the true meaning of human life.
 
 ### tab=t(| ⟩ )²
@@ -84,7 +85,7 @@ $$
 tab=t(| ⟩ )² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow ab=1
 $$
 
-Someone is taking drugs in the bathroom
+Someone is taking drugs in the bathroom.
 
 ### | ⟩ ²=1
 
@@ -92,7 +93,8 @@ $$
 tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩ ²=1
 $$
 
-The gender of people with ambiguity is not subject to legal scrutiny. They come from all over the world.
+The gender of people with ambiguity is not subject to legal scrutiny.
+They come from all over the world.
 
 ### 2=1
 
@@ -104,7 +106,7 @@ Of the 366 gender-neutral restrooms, 2/1 are occupied by LGBT individuals, who r
 
 ![image](tab.png)
 
-Finally we know how they got together
+Finally we know how they got together.
 
 (2|1) Easter egg(s)。
 
