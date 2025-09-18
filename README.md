@@ -19,13 +19,11 @@ tab=t
 2=1
 ```
 
-## 推导过程
+## Proof Process
 
 ### n'=0
 
-对老婆的财产进行没收，得到 n'=0 。
-
-t'=0 老婆的钱基本都是我的钱，她手里只能没有钱，因此得到t=0。
+Her money is mine.
 
 ### 0=t
 
@@ -33,20 +31,19 @@ $$
 t=0 \Rightarrow 0=t
 $$
 
-当她嫁给我的那一刻，她所有的房车都需要经过公证，无条件地转让给我，不管是过去，现在，还是未来，她手里都没有一分钱。
+Her money is mine. * 2
 
 ### t=ab
 
-我们姻缘由天定，从过去已经注定要永远在一起。
+We love each other.
 
 ### ab=a || a ²=a
 
-当我们把被子盖上，或者把灯关掉的时候，没有人知道我们是一个人还是两个人。
-历史上称为薛定谔的双人运动试验。
+God knows if we're having sex
 
 ### b=1 || a=1 || a=0
 
-解开方程，得到 b=1 || a=1 || a=0。
+Rich before marriage, poor after marriage
 
 #### a=b=1
 
@@ -54,7 +51,7 @@ $$
 a=1 \Rightarrow a=b=1
 $$
 
-老婆和我都是人。
+The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.”
 
 #### ta=t
 
@@ -62,7 +59,7 @@ $$
 a=1 \Rightarrow ta=t
 $$
 
-当他还是一个1的时候，有一天下面的时候面条被切断了，从此雄风不在。变成了她。
+We made love for a long time.
 
 ### a=| ⟩ ​​​
 
@@ -70,9 +67,8 @@ $$
 a=1 || a=0  \Rightarrow a=| ⟩
 $$
 
-a=1 || a=0  她即是他，又是TA。
-
-LGBT族群表示人类有366个性别，每天一个样，天天不一样，美国政府应该修建366个性别厕所，以方便他们进去研究人类生命的真谛。
+The LGBT community said that humans have 366 genders, and each day is different.
+The US government should build 366 gender-specific toilets to make it easier for them to go in and study the true meaning of human life.
 
 ### tab=t(| ⟩ )²
 
@@ -80,7 +76,7 @@ $$
 a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )² \Rightarrow ab=| ⟩ ²
 $$
 
-tab=t(| ⟩ )² 表示在366个性别厕所中，有2个性别不明人士，基于时间在做运动。
+Of the 366 gender restrooms, there were 2 people of unknown gender who were having sex based on the time.
 
 ### tab=t
 
@@ -88,7 +84,7 @@ $$
 tab=t(| ⟩ )² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow ab=1
 $$
 
-tab=t 表示在366个性别厕所中，有1个性别不明人士，自己在那里瞎搞。
+Someone is taking drugs in the bathroom
 
 ### | ⟩ ²=1
 
@@ -96,7 +92,7 @@ $$
 tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩ ²=1
 $$
 
-| ⟩ ²=1  表示性别不明人士的性别不受法律监督。他们可以是1，也可以是0，也可以是来自M678星云的娜美可性别。
+The gender of people with ambiguity is not subject to legal scrutiny. They come from all over the world.
 
 ### 2=1
 
@@ -104,13 +100,13 @@ $$
 tab=t(| ⟩ )² ∧ tab=t \Rightarrow 2=1
 $$
 
-在366个性别厕所中，有2|1个LGBT人士，在那里研究鉴定各种叶子的形状和风味。
+Of the 366 gender-neutral restrooms, 2/1 are occupied by LGBT individuals, who research and identify the shapes and flavors of various leaves.
 
 ![image](tab.png)
 
-最终我们就得到了双人运动的量子化解释。
+Finally we know how they got together
 
-(2|1)个彩蛋。
+(2|1) Easter egg(s)。
 
 ## tab=t(| ⟩ )²=0
 
