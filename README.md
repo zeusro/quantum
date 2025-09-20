@@ -43,7 +43,7 @@ God knows if we're having sex.
 
 ### b=1 || a=1 || a=0
 
-Rich before marriage, poor after marriage.
+Rich before marriage, poor after divorce.
 
 #### a=b=1
 

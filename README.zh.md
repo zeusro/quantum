@@ -91,10 +91,18 @@ a=1 || a=0 这种既等于0又等于1的特性，符合量子纠缠态特征。
 ### tab=t(| ⟩ )²
 
 $$
-a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )² \Rightarrow ab=| ⟩ ²
+a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )² 
 $$
 
 tab=t(| ⟩ )² 表示在n维空间中的2个量子，基于时间在做运动。
+
+#### ab=| ⟩ ²
+
+$$
+tab=t(| ⟩ )² \Rightarrow ab=| ⟩ ²
+$$
+
+n维线段的长度是一个不确定值。
 
 ### tab=t
 
