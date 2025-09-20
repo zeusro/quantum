@@ -23,7 +23,7 @@ tab=t
 
 ### n'=0
 
-Her money is mine.
+His money is mine.
 
 ### 0=t
 
@@ -31,7 +31,7 @@ $$
 t=0 \Rightarrow 0=t
 $$
 
-Her money is mine. * 2
+His money is mine. * 2
 
 ### t=ab
 
@@ -85,7 +85,7 @@ $$
 tab=t(| ⟩ )² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow ab=1
 $$
 
-Someone is taking drugs in the bathroom.
+Someone is getting high in the bathroom.
 
 ### | ⟩ ²=1
 
@@ -106,7 +106,7 @@ Of the 366 gender-neutral restrooms, 2/1 are occupied by LGBT individuals, who r
 
 ![image](tab.png)
 
-Finally we know how they got together.
+We finally got together.
 
 (2|1) Easter egg(s)。
 
