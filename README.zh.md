@@ -219,14 +219,14 @@ $$
 左边的 t=| ⟩²，右边的t=| ⟩，因此有 | ⟩²ab=| ⟩a²b²
 
 $$
- | ⟩²ab=| ⟩a²b²\Rightarrow  | ⟩ab=a²b²\Rightarrow | ⟩³=| ⟩⁴ \Rightarrow 4=3
+ | ⟩²ab=| ⟩a²b²\Rightarrow  | ⟩ab=a²b² ∧ a=b=| ⟩ \Rightarrow | ⟩³=| ⟩⁴ \Rightarrow 4=3
 $$
 
 ### n=...=4=3=2=1=0
 
  一般性推广，得到 n=...=4=3=2=1=0。
 
- 取反 0=1=2=3=4=...=n。
+ 取反 0=1=2=3=4=...=n也成立。
 
 ![image](tab.png)
 
