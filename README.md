@@ -34,6 +34,8 @@ n → ▣ → ▭ → ― → • → t → 0
 
 ## Proof Process
 
+Maybe they should learn some [Chinese](README.zh.md).
+
 ### n'=0
 
 His money is mine.
@@ -133,4 +135,4 @@ $$
 
 ![image](tpp.gif)
 
-## Thank [bullshit YANG](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)
+## [Thank bullshit YANG](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)
