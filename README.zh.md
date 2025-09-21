@@ -170,4 +170,5 @@ $$
 
 ## 鸣谢
 
-[杨佳](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)
+感谢广东省名教师林华工作室学员[杨佳](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)教我[思想政治](http://www.yjsz2020.cn/)。
+她制作的付费课件质量非常高，让我在一年之内就学完了政治经济学。
