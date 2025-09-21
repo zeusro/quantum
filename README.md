@@ -126,3 +126,5 @@ $$
 ## t(| ⟩ )²=tp²
 
 ![image](tpp.gif)
+
+## Thank [bullshit YANG](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)
