@@ -19,15 +19,19 @@ b=0 || b=1 || a=0 || a=1
 a=b=1=0
     ta=t
     ta=0
-a=| ⟩ ​​​
-tab=t(| ⟩ )²
+a=| ⟩​​​
+tab=t(| ⟩)²
     ab=| ⟩²
 tab=t
      t=| ⟩
      a=ab=t=| ⟩
 | ⟩²=1
 2=1
-2=1=0
+3=2
+4=3
+n=...4=3=2=1=0
+n → ▣ → ▭ → ― → • → t → 0
+0 → t → • → ― → ▭ → ▣ → n
 ```
 
 ## 推导过程
@@ -133,7 +137,7 @@ $$
 
 运动需要时间观察，缺少时间的话一切毫无意义。
 
-### a=| ⟩ ​​​
+### a=| ⟩​​​
 
 $$
 a=1 || a=0  \Rightarrow a=| ⟩
@@ -141,20 +145,20 @@ $$
 
 a=1 || a=0 这种既等于0又等于1的特性，符合量子纠缠态特征。
 
-因此得到 a=| ⟩ ​​​。 a=| ⟩ ​​ 表示 a 是一个量子。
+因此得到 a=| ⟩​​​。 a=| ⟩​​ 表示 a 是一个量子。
 
-### tab=t(| ⟩ )²
+### tab=t(| ⟩)²
 
 $$
-a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )²
+a=| ⟩∧ a=b \Rightarrow tab=t(| ⟩)²
 $$
 
-tab=t(| ⟩ )² 表示在n维空间中的2个量子，基于时间在做运动。
+tab=t(| ⟩)² 表示在n维空间中的2个量子，基于时间在做运动。
 
 #### ab=| ⟩²
 
 $$
-tab=t(| ⟩ )² \Rightarrow ab=| ⟩²
+tab=t(| ⟩)² \Rightarrow ab=| ⟩²
 $$
 
 n维线段的长度是一个不确定值。
@@ -162,7 +166,7 @@ n维线段的长度是一个不确定值。
 ### tab=t
 
 $$
-tab=t(| ⟩ )² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow ab=1
+tab=t(| ⟩)² ∧ a=b=1 \Rightarrow  tab=t \Rightarrow ab=1
 $$
 
 tab=t 表示在n维空间中的1个量子，基于时间在做运动。
@@ -178,7 +182,7 @@ $$
 #### a=ab=t=| ⟩
 
 $$
- a=| ⟩ ∧ t=| ⟩ ∧ ab=a\Rightarrow a=ab=t=| ⟩
+a=| ⟩∧ t=| ⟩∧ ab=a\Rightarrow a=ab=t=| ⟩
 $$
 
 所有粒子的量子化解释。
@@ -186,7 +190,7 @@ $$
 ### | ⟩²=1
 
 $$
-tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩²=1
+tab=t(| ⟩)² ∧ tab=t \Rightarrow | ⟩²=1
 $$
 
 | ⟩²=1  表示量子的相互纠缠性，也可以用 ab=1 来表示。
@@ -194,30 +198,66 @@ $$
 ### 2=1
 
 $$
-tab=t(| ⟩ )² ∧ tab=t \Rightarrow 2=1
+tab=t(| ⟩)² ∧ ab=t \Rightarrow t=| ⟩² \Rightarrow  2=1
 $$
 
 n维空间中同时存在2|1个量子基于时间在做运动，因此得到2=1。
 
-### 2=1=0
+### 3=2
 
 $$
-2=1 ∧ a=b=1=0 \Rightarrow  2=1=0
+tab=t(| ⟩)² ∧ tab=t ∧ a=ab=t=| ⟩\Rightarrow t=| ⟩³ ∧ t=| ⟩²  \Rightarrow | ⟩²=| ⟩³ \Rightarrow 3=2
 $$
+
+### 4=3
+
+$$
+tab=t(| ⟩)² ∧ tab=t ∧ a=ab=t=| ⟩\Rightarrow tab=t(ab)²\Rightarrow tab=ta²b²
+$$
+
+左边的 t=| ⟩²，右边的t=| ⟩，因此有 | ⟩²ab=| ⟩a²b²
+
+$$
+ | ⟩²ab=| ⟩a²b²\Rightarrow  | ⟩ab=a²b²\Rightarrow | ⟩³=| ⟩⁴ \Rightarrow 4=3
+$$
+
+### n=...=4=3=2=1=0
+
+ 一般性推广，得到 n=...=4=3=2=1=0。
+
+ 取反 0=1=2=3=4=...=n。
 
 ![image](tab.png)
 
 最终我们就得到了运动的量子化解释。
 
+同时也是[n维空间数学公理](https://github.com/zeusro/math/blob/main/n/n.zh.md#推论)：
+
+1. 传统三维（n<=3，“直角坐标系”中的n）是t=0时的特殊态；
+1. 0动成t，随着时间变化，点动成线，线动成面，面动成体，体动成维；
+1. 随着时间变化，维降成体，体缩成面，面揉成线，线压成点，点灭为0。
+
+0 → t → • → ― → ▭ → ▣ → n
+
+- $0 \in \mathbb{R}^0$
+- $time \subset \mathbb{R}^1$
+- $Point \in \mathbb{R}^2$
+- $Line \in \mathbb{R}^3$
+- $Surface \subset \mathbb{R}^4$
+- $3D \subset \mathbb{R}^5$
+- $n \subset \mathbb{R}^n+1$
+
+n → ▣ → ▭ → ― → • → t → 0
+
 (2|1)个彩蛋。
 
-## tab=t(| ⟩ )²=0
+## tab=t(| ⟩)²=0
 
 $$
-tab=t(| ⟩ )² ∧ a=0 \Rightarrow tab=t(| ⟩ )²=0 \Rightarrow ab=| ⟩²=？
+tab=t(| ⟩)² ∧ a=0 \Rightarrow tab=t(| ⟩)²=0 \Rightarrow ab=| ⟩²=？
 $$
 
-## t(| ⟩ )²=tp²
+## t(| ⟩)²=tp²
 
 ![image](tpp.gif)
 
