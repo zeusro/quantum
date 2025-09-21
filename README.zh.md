@@ -170,4 +170,4 @@ $$
 
 ## 鸣谢
 
-[杨佳](https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655476105&idx=1&sn=ac9afd47e6093e81064f1b73e9165a8d&chksm=f1bf04a0c6c88db6ef38ff4a599128de9d1f5cf5acc1ec71a321960f327eaf9364697e5185f7&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd)
+[杨佳](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)
