@@ -34,7 +34,7 @@ n → ▣ → ▭ → ― → • → t → 0
 
 ## Proof Process
 
-Maybe they should learn some [Chinese](README.zh.md).
+Maybe they should [learn some Chinese](README.zh.md).
 
 ### n'=0
 
