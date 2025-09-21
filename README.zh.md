@@ -213,10 +213,3 @@ $$
 ## t(| ⟩)²=tp²
 
 ![image](tpp.gif)
-
-## 鸣谢
-
-感谢广东省名教师林华工作室学员[杨佳](https://mp.weixin.qq.com/s/cE2BTMrLV6M9kirC-r6clA)教我[思想政治](http://www.yjsz2020.cn/)。
-她制作的付费课件质量非常高，
-让我在一年之内在[辩证法三大规律](https://baike.baidu.com/item/%E8%BE%A9%E8%AF%81%E6%B3%95%E4%B8%89%E5%A4%A7%E8%A7%84%E5%BE%8B/2352752)的基础上继往开来，
-把 2=1 给证明了出来。
