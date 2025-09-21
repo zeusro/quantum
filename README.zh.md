@@ -230,25 +230,7 @@ $$
 
 ![image](tab.png)
 
-最终我们就得到了运动的量子化解释。
-
-同时也是[n维空间数学公理](https://github.com/zeusro/math/blob/main/n/n.zh.md#推论)：
-
-1. 传统三维（n<=3，“直角坐标系”中的n）是t=0时的特殊态；
-1. 0动成t，随着时间变化，点动成线，线动成面，面动成体，体动成维；
-1. 随着时间变化，维降成体，体缩成面，面揉成线，线压成点，点灭为0。
-
-0 → t → • → ― → ▭ → ▣ → n
-
-- $0 \in \mathbb{R}^0$
-- $time \subset \mathbb{R}^1$
-- $Point \in \mathbb{R}^2$
-- $Line \in \mathbb{R}^3$
-- $Surface \subset \mathbb{R}^4$
-- $3D \subset \mathbb{R}^5$
-- $n \subset \mathbb{R}^n+1$
-
-n → ▣ → ▭ → ― → • → t → 0
+最终我们就得到了运动的量子化解释，同时也是[n维空间数学公理](https://github.com/zeusro/math/blob/main/n/n.zh.md#推论)。
 
 (2|1)个彩蛋。
 
