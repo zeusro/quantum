@@ -98,7 +98,7 @@ $$
 #### a²=a
 
 $$
-a=b \Rightarrow  a²=a
+a=b ∧ b²=b \Rightarrow  a²=a
 $$
 
 最终我们得到 ab=a || a²=a
