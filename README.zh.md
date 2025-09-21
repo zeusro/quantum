@@ -1,5 +1,7 @@
 # 运动的量子化解释
 
+作者：[杨佳](https://mp.weixin.qq.com/s?__biz=MzI1ODEyNDg3MA==&mid=2655476105&idx=1&sn=ac9afd47e6093e81064f1b73e9165a8d&chksm=f1bf04a0c6c88db6ef38ff4a599128de9d1f5cf5acc1ec71a321960f327eaf9364697e5185f7&scene=178&cur_album_id=1501795090070077441&search_click_id=#rd)
+
 ![image](n.jpg)
 
 未濟 亨
@@ -42,7 +44,7 @@ $$
 
 因此如果把时间想象成一条X轴，那么实际上这条X轴上面所有的点都是零点，只是我们目前用了公元计时去描述时间的偏移。
 
-### t=ab
+### [t=ab](https://www.zeusro.com/2025/06/29/ab/)
 
 在1~n的维度中，都隐藏着时间作为“X轴”。因此三维生物观测到的二维平面，其实是t=0的三维空间。
 
