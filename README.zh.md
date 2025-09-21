@@ -199,7 +199,7 @@ $$
 ### 2=1
 
 $$
-tab=t(| ⟩)² ∧ ab=t \Rightarrow t=| ⟩² \Rightarrow | ⟩=| ⟩² \Rightarrow  2=1
+tab=t(| ⟩)² ∧ ab=t \Rightarrow t=| ⟩² \Rightarrow | ⟩=| ⟩² \Rightarrow 2=1
 $$
 
 n维空间中同时存在2|1个量子基于时间在做运动，因此得到2=1。
