@@ -6,6 +6,7 @@ n=1 ∧ n≠1 ∧ 1=n
 1+1=3
 3-1=1
 1-1=3
+a^n = a^{n-1}
 ```
 
 [Proof Process](n.zh.md)
