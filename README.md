@@ -8,22 +8,23 @@
 n'=0
 0=t
 t=ab
-ab=a || a ²=a
+ab=a || a²=a
     ab=a
     b²=b
     a=b
-    a ²=a
+    a²=a
 b=0 || b=1 || a=0 || a=1
     a=b=1=0
     ta=t
 a=| ⟩ ​​​
 tab=t(| ⟩ )²
-    ab=| ⟩ ²
+    ab=| ⟩²
 tab=t
      t=| ⟩
      a=ab=t=| ⟩
-| ⟩ ²=1
+| ⟩²=1
 2=1
+2=1=0
 ```
 
 ## Proof Process
@@ -44,7 +45,7 @@ His money is mine. * 2
 
 We love each other.
 
-### ab=a || a ²=a
+### ab=a || a²=a
 
 God knows if we're having sex.
 
@@ -81,7 +82,7 @@ The US government should build 366 gender-specific toilets to make it easier for
 ### tab=t(| ⟩ )²
 
 $$
-a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )² \Rightarrow ab=| ⟩ ²
+a=| ⟩ ∧ a=b \Rightarrow tab=t(| ⟩ )² \Rightarrow ab=| ⟩²
 $$
 
 Of the 366 gender restrooms, there were 2 people of unknown gender who were having sex based on the time.
@@ -94,10 +95,10 @@ $$
 
 Someone is getting high in the bathroom.
 
-### | ⟩ ²=1
+### | ⟩²=1
 
 $$
-tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩ ²=1
+tab=t(| ⟩ )² ∧ tab=t \Rightarrow | ⟩²=1
 $$
 
 The gender of people with ambiguity is not subject to legal scrutiny.
