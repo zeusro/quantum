@@ -7,6 +7,8 @@ n=1 ∧ n≠1 ∧ 1=n
 3-1=1
 1-1=3
 a^n = a^{n-1}
+ab=1
+a²=1
 ```
 
 [Proof Process](n.zh.md)
