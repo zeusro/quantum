@@ -136,6 +136,7 @@ t=0 \Rightarrow ta=0
 $$
 
 运动需要时间观察，缺少时间的话一切毫无意义。
+[时间是第一维度](https://github.com/zeusro/math/blob/main/n/1.zh.md)。
 
 ### a=| ⟩​​​
 
@@ -198,7 +199,7 @@ $$
 ### 2=1
 
 $$
-tab=t(| ⟩)² ∧ ab=t \Rightarrow t=| ⟩² \Rightarrow  2=1
+tab=t(| ⟩)² ∧ ab=t \Rightarrow t=| ⟩² \Rightarrow | ⟩=| ⟩² \Rightarrow  2=1
 $$
 
 n维空间中同时存在2|1个量子基于时间在做运动，因此得到2=1。
