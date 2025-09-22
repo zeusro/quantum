@@ -9,6 +9,8 @@ n=1 ∧ n≠1 ∧ 1=n
 a^n = a^{n-1}
 ab=1
 a²=1
+n < n + 1
+n < n - 1
 ```
 
 [Proof Process](n.zh.md)
