@@ -121,3 +121,7 @@ $$
 ## t(| ⟩ )²=tp²
 
 ![image](tpp.gif)
+
+## Thank
+
+Thank you [Ms. Dragon](https://mp.weixin.qq.com/s/8iQWpQiDjFauXrvC9KiANw) for teaching me English.
