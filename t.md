@@ -15,7 +15,7 @@ The "primacy dispute" between materialism and idealism is a contradictory propos
 
 ## Mathematical proof
 
-```
+```math
 1: 2025-10-17 > 1955-04-18 > 1895-08-05 > 1883-03-14 > 1879-03-14 > 1776-08-25
 2: t=1
 ```
@@ -34,9 +34,9 @@ Both materialism and idealism are personal perceptions and do not align with obj
 
 ## Bibliography
 
-1. Theses on Feuerbach（费尔巴哈提纲，1845）
-1. March 1972 “The New York Times” The “Times” article
-1. 休谟
+1.	Marx, K. (1845). Theses on Feuerbach.
+2.	The New York Times. (1972, March). “The ‘Times’ article”.
+3.	Hume, D. (1739–1740). A Treatise of Human Nature.
 
 ## Acknowledgements
 
