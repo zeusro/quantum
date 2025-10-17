@@ -2,9 +2,9 @@
 
 A purely sensory critique of materialism and idealism.
 
-[![陳冠希 / MC仁 / 廚房仔 - Everywhere we go Official MV - 官方完整版MV](https://www.youtube.com/watch?v=4yusD9y7T5Y)
-
-https://i.ytimg.com/vi/4yusD9y7T5Y/maxresdefault.jpg
+<a href="https://www.youtube.com/watch?v=4yusD9y7T5Y" target="_blank">
+  <img src="https://i.ytimg.com/vi/4yusD9y7T5Y/maxresdefault.jpg" alt="image" />
+</a>
 
 ## Introduction
 
