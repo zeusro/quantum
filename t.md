@@ -18,9 +18,11 @@ The "primacy dispute" between materialism and idealism is a contradictory propos
 ```zeusro
 1: 2025-10-17 > 1955-04-18 > 1895-08-05 > 1883-03-14 > 1879-03-14 > 1776-08-25
 2: t=1
+3: 2=xyz/Consciousness
 ```
 
 t=1 means time is the first dimension.
+Material consciousness coexists in the second dimension.
 
 ## Philosophical Explanation
 
