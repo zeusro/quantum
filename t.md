@@ -22,7 +22,7 @@ The "primacy dispute" between materialism and idealism is a contradictory propos
 ```
 
 t=1 means time is the first dimension.
-Material consciousness coexists in the second dimension.
+Matter and consciousness coexist in the second dimension.
 
 ## Philosophical Explanation
 
