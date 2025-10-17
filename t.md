@@ -34,10 +34,10 @@ Both materialism and idealism are personal perceptions and do not align with obj
 
 ## Bibliography
 
-1.	Marx, K. (1845). Theses on Feuerbach.
-2.	The New York Times. (1972, March). “The ‘Times’ article”.
-3.	Hume, D. (1739–1740). A Treatise of Human Nature.
+1. Marx, K. (1845). Theses on Feuerbach.
+2. The New York Times. (1972, March). “The ‘Times’ article”.
+3. Hume, D. (1739–1740). A Treatise of Human Nature.
 
 ## Acknowledgements
 
-?
+[Edison Chen Koon Hei](https://www.instagram.com/edisonchen/)
