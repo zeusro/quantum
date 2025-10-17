@@ -1,3 +1,4 @@
+BUILD_TIME 			  := $(shell LC_TIME=zh_CN.UTF-8 date +"%Y-%m-%d %H:%M:%S %A")
 BUILD_TIME            := $(shell date +%Y-%m-%dT%H:%M:%S%z 2>/dev/null || powershell -Command "Get-Date -Format o")
 DOCKER_REPO       ?= zeusro
 DOCKER_TAG         ?= kube-killer:latest
@@ -10,7 +11,3 @@ auto_commit:
 	git commit -am "$(BUILD_TIME)"
 	git pull
 	git push
-
-chinese:
-	cp README.md README.zh.md
-	sed -i.bak -e '/未濟 亨/{N;d;}' README.zh.md && rm -f README.zh.md.bak
