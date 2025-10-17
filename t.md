@@ -15,9 +15,8 @@ The "primacy dispute" between materialism and idealism is a contradictory propos
 
 ## Mathematical proof
 
-```math
+```zeusro
 1: 2025-10-17 > 1955-04-18 > 1895-08-05 > 1883-03-14 > 1879-03-14 > 1776-08-25
-
 2: t=1
 ```
 
