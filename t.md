@@ -3,7 +3,7 @@
 A purely sensory critique of materialism and idealism.
 
 <a href="https://www.youtube.com/watch?v=4yusD9y7T5Y" target="_blank">
-  <img src="https://i.ytimg.com/vi/4yusD9y7T5Y/maxresdefault.jpg" alt="image" />
+  <img src="https://i.ytimg.com/vi/4yusD9y7T5Y/maxresdefault.jpg" alt="image"  width="80%" height="80%"/>
 </a>
 
 ## Introduction
@@ -17,6 +17,7 @@ The "primacy dispute" between materialism and idealism is a contradictory propos
 
 ```math
 1: 2025-10-17 > 1955-04-18 > 1895-08-05 > 1883-03-14 > 1879-03-14 > 1776-08-25
+
 2: t=1
 ```
 
