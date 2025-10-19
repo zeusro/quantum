@@ -79,9 +79,7 @@ N维空间遵循[N维空间运算法则](n.zh.md)。
 ## 参考
 
 1. David Hume
-1. Albert Einstein
-1. John Forbes Nash Jr.
-1. 
+1. Albert Einstein1. 
 1. 
 1. 
 1. 
