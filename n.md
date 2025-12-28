@@ -3,7 +3,7 @@
 
 First Principles：**n=...=4=3=2=1=0** && a²=1
 
-Symbol definition：
+## Symbol definition
 
 = ：This represents a time-based computation result. The computation process is unidirectional and irreversible.
 
