@@ -11,7 +11,7 @@ It can also represent an equivalent relationship.
 
 ## Equation
 
-## **1=0**
+### **1=0**
 
 $$
 a²=1 ⟹ a=1 ∧ a=0 ⟹ 1=0 ^ 0=1
