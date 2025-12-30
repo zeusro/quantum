@@ -5,6 +5,7 @@ First Principles： a²=1
 ## Symbol definition
 
 = ：This represents a time-based computation result. The computation process is unidirectional and irreversible.
+It can also represent an equivalent relationship.
 
 1 ： 1 quantum。
 
@@ -74,7 +75,7 @@ $$
 
 ## Quantum Multiplication
 
-ab=1
+ab=1 ∧ ab=0
 
 a²=1
 
